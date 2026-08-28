@@ -1,4 +1,4 @@
-> **Note (2026):** this is a research fork I made back in 2019–2020 while studying secp256k1, brainwallets and what low-entropy keys mean for wallet security. All credit goes to the original author, [ryancdotorg](https://github.com/ryancdotorg/brainflayer) — license unchanged. Kept as-is for reference.
+> **Why this fork (2019–2020):** I studied brainwallet cracking to understand how weak passphrases and low entropy break secp256k1 keys in practice, and used the results to build my own defenses — passphrase and entropy validation, weak-key blacklists and wallet-hardening rules I still apply in my crypto projects. Original project by [ryancdotorg](https://github.com/ryancdotorg/brainflayer) — license unchanged.
 
 Brainflayer
 ===========
