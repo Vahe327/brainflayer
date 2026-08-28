@@ -1,3 +1,5 @@
+> **Note (2026):** this is a research fork I made back in 2019–2020 while studying secp256k1, brainwallets and what low-entropy keys mean for wallet security. All credit goes to the original author, [ryancdotorg](https://github.com/ryancdotorg/brainflayer) — license unchanged. Kept as-is for reference.
+
 Brainflayer
 ===========
 
